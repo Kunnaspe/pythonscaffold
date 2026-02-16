@@ -1,13 +1,4 @@
-#var=1
-#var=var
+def add(x,y):
+    return x,y
 
-def toyou(x):
-    return f"hi {x}"
-
-
-def add(x):
-    return x + 1
-
-
-def subtract(x):
-    return x - 1
+print(f"This is the sum: {x}, {y}, {add(x,y)}")
