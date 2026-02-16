@@ -1,22 +1,8 @@
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
+This repo is for TESU CLD 4300
 
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
+Below are the instructions:
 
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-pytest/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
-
-# Github Actions pytest
-Example Github Actions Project designed to show how a hello version of Github Actions testing Python code.
-
-*Part of Duke Coursera Course:  Cloud Computing for Data*
+R​eview the example GitHub Project, GitHub Actions pytest and then experiment with a basic Makefile and extend it. Makefile is an important concept to master because it is a way of running complex commands in a repeatable and simple manner. [MO 3.4]
+Watch and review this video tutorial: Construct a Python Project Scaffold. This video demonstrates an important concept in cloud computing: building repeatable development environments that allow for continuous integration and continuous development.
+Construct a scaffold using the video as an example.
+Screenshot your project result and submit it with the link to your file to the Lab Assignment submission link in Moodle. You should also include a short reflection (under 200 words) of what you have learned from the lab and any challenges and problems you faced in your submission. [MO 3.2]
